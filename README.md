@@ -40,8 +40,11 @@ Picture below shows initial execution of .sql file
 ![SQL file](/images/bamazon_sql_execution.JPG)
 Format: ![Alt Text](url)
 
-Running bamazonCustomer.js, list of items is displayed, then user ask for an option
+Running bamazonCustomer.js, list of items is displayed, then user is asked to choose an option
 
 ![SQL file](/images/bamazonCustomer01.JPG)
 Format: ![Alt Text](url)
 
+If user tries to buy an item not existing on inventory, a warning message will be displayed
+
+![SQL file](/images/bamazonCustomer01.JPG)
