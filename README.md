@@ -39,7 +39,7 @@ Picture below shows initial execution of .sql file
 
 ![SQL file](/images/bamazon_sql_execution.JPG)
 
-#### Running bamazonCustomer.js
+### Running bamazonCustomer.js
 List of items is displayed, then user is asked to choose an option
 
 ![SQL file](/images/bamazonCustomer01.JPG)
@@ -59,7 +59,16 @@ If user selects a valid amount to buy, data base is updated
 ![SQL file](/images/bamazonCustomer05.JPG)
 
 
-#### Running bamazonCustomer.js
+### Running bamazonCustomer.js
 When running this .js file, user must select from following menu
 
 ![SQL file](/images/bamazonMgr01.JPG)
+
+If user choose "List of Items", all items in table produnct are displyed
+
+![SQL file](/images/bamazonMgr02.JPG)
+
+When running option "Items with Low Inventory", items with quantity less than 3 are listed
+
+![SQL file](/images/bamazonMgr03.JPG)
+![SQL file](/images/bamazonMgr04.JPG)
