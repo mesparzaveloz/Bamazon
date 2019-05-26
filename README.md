@@ -35,7 +35,13 @@ Allows the user to add a completely new product to the database.
 
 ## Evidence
 
-Pictures below show how both portions work
+Picture below shows initial execution of .sql file
 
 ![SQL file](/images/bamazon_sql_execution.JPG)
-Format: ![Alt SQL file](url)
+Format: ![Alt Text](url)
+
+Running bamazonCustomer.js, list of items is displayed, then user ask for an option
+
+![SQL file](/images/bamazonCustomer01.JPG)
+Format: ![Alt Text](url)
+
