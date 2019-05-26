@@ -39,7 +39,8 @@ Picture below shows initial execution of .sql file
 
 ![SQL file](/images/bamazon_sql_execution.JPG)
 
-Running bamazonCustomer.js, list of items is displayed, then user is asked to choose an option
+#### Running bamazonCustomer.js
+List of items is displayed, then user is asked to choose an option
 
 ![SQL file](/images/bamazonCustomer01.JPG)
 
@@ -56,3 +57,9 @@ If user selects a valid amount to buy, data base is updated
 ![SQL file](/images/bamazonCustomer04.JPG)
 
 ![SQL file](/images/bamazonCustomer05.JPG)
+
+
+#### Running bamazonCustomer.js
+When running this .js file, user must select from following menu
+
+![SQL file](/images/bamazonMgr01.JPG)
