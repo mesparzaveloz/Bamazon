@@ -11,15 +11,16 @@ mySQL Homework
 This app has 2 different functionalities:
 
 Customer
+
 Manager
 
-###Customer
+# Customer
 
 In Customer app, user is initially presented with the list of items available for purchasing.
 Then, user is asked to enter item ID to buy, if item exists, user will be asked to enter quantity to purchase; application validate there is enough items in inventory.
 If so, user is notified about sale transaction including total amount to pay. At the same time, inventory balance is updated, as well as Sales amount for that particular item
 
-###Manager
+# Manager
 
 In the manager app the user is presented with 4 options:
 
@@ -32,6 +33,6 @@ Allows the user to add more inventory to an already existing item.
 Add New Product
 Allows the user to add a completely new product to the database.
 
-###Evidence
+# Evidence
 
 Pictures below show how both portions work
