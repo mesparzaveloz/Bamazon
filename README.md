@@ -72,3 +72,10 @@ When running option "Items with Low Inventory", items with quantity less than 3 
 
 ![SQL file](/images/bamazonMgr03.JPG)
 ![SQL file](/images/bamazonMgr04.JPG)
+
+When running "Adding items to inventoty"; if user choose an item ID not existing, a warning message is displayed
+![SQL file](/images/bamazonMgr05.JPG)
+
+If item exists, user is asked to enter quantity to be added to selected item, then data base is updated accordingly
+![SQL file](/images/bamazonMgr06.JPG)
+![SQL file](/images/bamazonMgr07.JPG)
