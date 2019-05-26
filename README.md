@@ -46,3 +46,13 @@ Running bamazonCustomer.js, list of items is displayed, then user is asked to ch
 If user tries to buy an item not existing on inventory, a warning message will be displayed
 
 ![SQL file](/images/bamazonCustomer02.JPG)
+
+If item exists, but user try to buy an amount greater than available on inventory, a warning message will be displayed
+
+![SQL file](/images/bamazonCustomer03.JPG)
+
+If user selects a valid amount to buy, data base is updated
+
+![SQL file](/images/bamazonCustomer04.JPG)
+
+![SQL file](/images/bamazonCustomer05.JPG)
